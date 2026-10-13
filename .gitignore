@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+*.dSYM/
+*.dmg
+
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# VS Code
+.vscode/
+
+# Compiled files
+*.o
+*.out
